@@ -3,7 +3,6 @@
 I'm a developer in training, passionate about technology and innovation.  
 Currently studying Systems Analysis and Development (ADS) at FATEC Americana, and looking for opportunities to apply my skills as a Fullstack Developer.
 
----
 
 ## 🚀 Technologies
 
@@ -19,7 +18,6 @@ Currently studying Systems Analysis and Development (ADS) at FATEC Americana, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
----
 
 ## 📚 Currently Learning
 
@@ -28,7 +26,6 @@ Currently studying Systems Analysis and Development (ADS) at FATEC Americana, an
   <img src="https://cdn.simpleicons.org/n8n/FF6D5A" height="40" alt="n8n"/>
 </p>
 
----
 
 ## 📫 Contact
 
